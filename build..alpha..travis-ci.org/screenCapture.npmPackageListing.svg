@@ -1,0 +1,137 @@
+<svg height="2142" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2142" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 17:10:27 +0000   646457 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 17:10:27 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 17:10:27 +0000     1696 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 17:10:27 +0000     1511 bytes  examples/SimpleTabbar/android/app/BUCK</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 17:10:27 +0000     5407 bytes  examples/SimpleTabbar/android/app/build.gradle</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 17:10:27 +0000     2480 bytes  examples/SimpleTabbar/android/app/proguard-rules\</tspan>
+<tspan x="10" y="122">.pro</tspan>
+<tspan x="10" y="138">  6.  2017-04-20 17:10:27 +0000     1098 bytes  examples/SimpleTabbar/android/app/src/main/Andro\</tspan>
+<tspan x="10" y="154">idManifest.xml</tspan>
+<tspan x="10" y="170">  7.  2017-04-20 17:10:27 +0000      369 bytes  examples/SimpleTabbar/android/app/src/main/java/\</tspan>
+<tspan x="10" y="186">com/simpletabbar/MainActivity.java</tspan>
+<tspan x="10" y="202">  8.  2017-04-20 17:10:27 +0000      877 bytes  examples/SimpleTabbar/android/app/src/main/java/\</tspan>
+<tspan x="10" y="218">com/simpletabbar/MainApplication.java</tspan>
+<tspan x="10" y="234">  9.  2017-04-20 17:10:27 +0000     3418 bytes  examples/SimpleTabbar/android/app/src/main/res/m\</tspan>
+<tspan x="10" y="250">ipmap-hdpi/ic_launcher.png</tspan>
+<tspan x="10" y="266"> 10.  2017-04-20 17:10:27 +0000     2206 bytes  examples/SimpleTabbar/android/app/src/main/res/m\</tspan>
+<tspan x="10" y="282">ipmap-mdpi/ic_launcher.png</tspan>
+<tspan x="10" y="298"> 11.  2017-04-20 17:10:27 +0000     4842 bytes  examples/SimpleTabbar/android/app/src/main/res/m\</tspan>
+<tspan x="10" y="314">ipmap-xhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="330"> 12.  2017-04-20 17:10:27 +0000     7718 bytes  examples/SimpleTabbar/android/app/src/main/res/m\</tspan>
+<tspan x="10" y="346">ipmap-xxhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="362"> 13.  2017-04-20 17:10:27 +0000       75 bytes  examples/SimpleTabbar/android/app/src/main/res/v\</tspan>
+<tspan x="10" y="378">alues/strings.xml</tspan>
+<tspan x="10" y="394"> 14.  2017-04-20 17:10:27 +0000      192 bytes  examples/SimpleTabbar/android/app/src/main/res/v\</tspan>
+<tspan x="10" y="410">alues/styles.xml</tspan>
+<tspan x="10" y="426"> 15.  2017-04-20 17:10:27 +0000      642 bytes  examples/SimpleTabbar/android/build.gradle</tspan>
+<tspan x="10" y="442"> 16.  2017-04-20 17:10:27 +0000      887 bytes  examples/SimpleTabbar/android/gradle.properties</tspan>
+<tspan x="10" y="458"> 17.  2017-04-20 17:10:27 +0000    52266 bytes  examples/SimpleTabbar/android/gradle/wrapper/gra\</tspan>
+<tspan x="10" y="474">dle-wrapper.jar</tspan>
+<tspan x="10" y="490"> 18.  2017-04-20 17:10:27 +0000      200 bytes  examples/SimpleTabbar/android/gradle/wrapper/gra\</tspan>
+<tspan x="10" y="506">dle-wrapper.properties</tspan>
+<tspan x="10" y="522"> 19.  2017-04-20 17:10:27 +0000     5080 bytes  examples/SimpleTabbar/android/gradlew</tspan>
+<tspan x="10" y="538"> 20.  2017-04-20 17:10:27 +0000     2404 bytes  examples/SimpleTabbar/android/gradlew.bat</tspan>
+<tspan x="10" y="554"> 21.  2017-04-20 17:10:27 +0000      138 bytes  examples/SimpleTabbar/android/keystores/BUCK</tspan>
+<tspan x="10" y="570"> 22.  2017-04-20 17:10:27 +0000      105 bytes  examples/SimpleTabbar/android/keystores/debug.ke\</tspan>
+<tspan x="10" y="586">ystore.properties</tspan>
+<tspan x="10" y="602"> 23.  2017-04-20 17:10:27 +0000       50 bytes  examples/SimpleTabbar/android/settings.gradle</tspan>
+<tspan x="10" y="618"> 24.  2017-04-20 17:10:27 +0000     3044 bytes  examples/SimpleTabbar/app.js</tspan>
+<tspan x="10" y="634"> 25.  2017-04-20 17:10:27 +0000      219 bytes  examples/SimpleTabbar/index.android.js</tspan>
+<tspan x="10" y="650"> 26.  2017-04-20 17:10:27 +0000      216 bytes  examples/SimpleTabbar/index.ios.js</tspan>
+<tspan x="10" y="666"> 27.  2017-04-20 17:10:27 +0000    30937 bytes  examples/SimpleTabbar/ios/SimpleTabbar.xcodeproj\</tspan>
+<tspan x="10" y="682">/project.pbxproj</tspan>
+<tspan x="10" y="698"> 28.  2017-04-20 17:10:27 +0000     4314 bytes  examples/SimpleTabbar/ios/SimpleTabbar.xcodeproj\</tspan>
+<tspan x="10" y="714">/xcshareddata/xcschemes/SimpleTabbar.xcscheme</tspan>
+<tspan x="10" y="730"> 29.  2017-04-20 17:10:27 +0000      451 bytes  examples/SimpleTabbar/ios/SimpleTabbar/AppDelega\</tspan>
+<tspan x="10" y="746">te.h</tspan>
+<tspan x="10" y="762"> 30.  2017-04-20 17:10:27 +0000     1379 bytes  examples/SimpleTabbar/ios/SimpleTabbar/AppDelega\</tspan>
+<tspan x="10" y="778">te.m</tspan>
+<tspan x="10" y="794"> 31.  2017-04-20 17:10:27 +0000     3715 bytes  examples/SimpleTabbar/ios/SimpleTabbar/Base.lpro\</tspan>
+<tspan x="10" y="810">j/LaunchScreen.xib</tspan>
+<tspan x="10" y="826"> 32.  2017-04-20 17:10:27 +0000      585 bytes  examples/SimpleTabbar/ios/SimpleTabbar/Images.xc\</tspan>
+<tspan x="10" y="842">assets/AppIcon.appiconset/Contents.json</tspan>
+<tspan x="10" y="858"> 33.  2017-04-20 17:10:27 +0000     1620 bytes  examples/SimpleTabbar/ios/SimpleTabbar/Info.plis\</tspan>
+<tspan x="10" y="874">t</tspan>
+<tspan x="10" y="890"> 34.  2017-04-20 17:10:27 +0000      510 bytes  examples/SimpleTabbar/ios/SimpleTabbar/main.m</tspan>
+<tspan x="10" y="906"> 35.  2017-04-20 17:10:27 +0000      765 bytes  examples/SimpleTabbar/ios/SimpleTabbarTests/Info\</tspan>
+<tspan x="10" y="922">.plist</tspan>
+<tspan x="10" y="938"> 36.  2017-04-20 17:10:27 +0000     2070 bytes  examples/SimpleTabbar/ios/SimpleTabbarTests/Simp\</tspan>
+<tspan x="10" y="954">leTabbarTests.m</tspan>
+<tspan x="10" y="970"> 37.  2017-04-20 17:10:27 +0000      272 bytes  examples/SimpleTabbar/package.json</tspan>
+<tspan x="10" y="986"> 38.  2017-04-20 17:10:27 +0000     1541 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1002">/BUCK</tspan>
+<tspan x="10" y="1018"> 39.  2017-04-20 17:10:27 +0000     5480 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1034">/build.gradle</tspan>
+<tspan x="10" y="1050"> 40.  2017-04-20 17:10:27 +0000     2480 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1066">/proguard-rules.pro</tspan>
+<tspan x="10" y="1082"> 41.  2017-04-20 17:10:27 +0000     1113 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1098">/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="1114"> 42.  2017-04-20 17:10:27 +0000      399 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1130">/src/main/java/com/simpletabbarwithorientation/MainActivity.java</tspan>
+<tspan x="10" y="1146"> 43.  2017-04-20 17:10:27 +0000     1011 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1162">/src/main/java/com/simpletabbarwithorientation/MainApplication.java</tspan>
+<tspan x="10" y="1178"> 44.  2017-04-20 17:10:27 +0000     3418 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1194">/src/main/res/mipmap-hdpi/ic_launcher.png</tspan>
+<tspan x="10" y="1210"> 45.  2017-04-20 17:10:27 +0000     2206 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1226">/src/main/res/mipmap-mdpi/ic_launcher.png</tspan>
+<tspan x="10" y="1242"> 46.  2017-04-20 17:10:27 +0000     4842 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1258">/src/main/res/mipmap-xhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="1274"> 47.  2017-04-20 17:10:27 +0000     7718 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1290">/src/main/res/mipmap-xxhdpi/ic_launcher.png</tspan>
+<tspan x="10" y="1306"> 48.  2017-04-20 17:10:27 +0000       91 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1322">/src/main/res/values/strings.xml</tspan>
+<tspan x="10" y="1338"> 49.  2017-04-20 17:10:27 +0000      192 bytes  examples/SimpleTabbarWithOrientation/android/app\</tspan>
+<tspan x="10" y="1354">/src/main/res/values/styles.xml</tspan>
+<tspan x="10" y="1370"> 50.  2017-04-20 17:10:27 +0000      642 bytes  examples/SimpleTabbarWithOrientation/android/bui\</tspan>
+<tspan x="10" y="1386">ld.gradle</tspan>
+<tspan x="10" y="1402"> 51.  2017-04-20 17:10:27 +0000      887 bytes  examples/SimpleTabbarWithOrientation/android/gra\</tspan>
+<tspan x="10" y="1418">dle.properties</tspan>
+<tspan x="10" y="1434"> 52.  2017-04-20 17:10:27 +0000    52266 bytes  examples/SimpleTabbarWithOrientation/android/gra\</tspan>
+<tspan x="10" y="1450">dle/wrapper/gradle-wrapper.jar</tspan>
+<tspan x="10" y="1466"> 53.  2017-04-20 17:10:27 +0000      200 bytes  examples/SimpleTabbarWithOrientation/android/gra\</tspan>
+<tspan x="10" y="1482">dle/wrapper/gradle-wrapper.properties</tspan>
+<tspan x="10" y="1498"> 54.  2017-04-20 17:10:27 +0000     5080 bytes  examples/SimpleTabbarWithOrientation/android/gra\</tspan>
+<tspan x="10" y="1514">dlew</tspan>
+<tspan x="10" y="1530"> 55.  2017-04-20 17:10:27 +0000     2404 bytes  examples/SimpleTabbarWithOrientation/android/gra\</tspan>
+<tspan x="10" y="1546">dlew.bat</tspan>
+<tspan x="10" y="1562"> 56.  2017-04-20 17:10:27 +0000      138 bytes  examples/SimpleTabbarWithOrientation/android/key\</tspan>
+<tspan x="10" y="1578">stores/BUCK</tspan>
+<tspan x="10" y="1594"> 57.  2017-04-20 17:10:27 +0000      105 bytes  examples/SimpleTabbarWithOrientation/android/key\</tspan>
+<tspan x="10" y="1610">stores/debug.keystore.properties</tspan>
+<tspan x="10" y="1626"> 58.  2017-04-20 17:10:27 +0000      263 bytes  examples/SimpleTabbarWithOrientation/android/set\</tspan>
+<tspan x="10" y="1642">tings.gradle</tspan>
+<tspan x="10" y="1658"> 59.  2017-04-20 17:10:27 +0000     3568 bytes  examples/SimpleTabbarWithOrientation/app.js</tspan>
+<tspan x="10" y="1674"> 60.  2017-04-20 17:10:27 +0000      234 bytes  examples/SimpleTabbarWithOrientation/index.andro\</tspan>
+<tspan x="10" y="1690">id.js</tspan>
+<tspan x="10" y="1706"> 61.  2017-04-20 17:10:27 +0000      234 bytes  examples/SimpleTabbarWithOrientation/index.ios.j\</tspan>
+<tspan x="10" y="1722">s</tspan>
+<tspan x="10" y="1738"> 62.  2017-04-20 17:10:27 +0000    33119 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1754">abbarWithOrientation.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="1770"> 63.  2017-04-20 17:10:27 +0000     4584 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1786">abbarWithOrientation.xcodeproj/xcshareddata/xcschemes/SimpleTabbarWithOrientation.xcscheme</tspan>
+<tspan x="10" y="1802"> 64.  2017-04-20 17:10:27 +0000      451 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1818">abbarWithOrientation/AppDelegate.h</tspan>
+<tspan x="10" y="1834"> 65.  2017-04-20 17:10:27 +0000     1394 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1850">abbarWithOrientation/AppDelegate.m</tspan>
+<tspan x="10" y="1866"> 66.  2017-04-20 17:10:27 +0000     3730 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1882">abbarWithOrientation/Base.lproj/LaunchScreen.xib</tspan>
+<tspan x="10" y="1898"> 67.  2017-04-20 17:10:27 +0000      585 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1914">abbarWithOrientation/Images.xcassets/AppIcon.appiconset/Contents.json</tspan>
+<tspan x="10" y="1930"> 68.  2017-04-20 17:10:27 +0000     1620 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1946">abbarWithOrientation/Info.plist</tspan>
+<tspan x="10" y="1962"> 69.  2017-04-20 17:10:27 +0000      510 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="1978">abbarWithOrientation/main.m</tspan>
+<tspan x="10" y="1994"> 70.  2017-04-20 17:10:27 +0000      765 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="2010">abbarWithOrientationTests/Info.plist</tspan>
+<tspan x="10" y="2026"> 71.  2017-04-20 17:10:27 +0000     2100 bytes  examples/SimpleTabbarWithOrientation/ios/SimpleT\</tspan>
+<tspan x="10" y="2042">abbarWithOrientationTests/SimpleTabbarWithOrientationTests.m</tspan>
+<tspan x="10" y="2058"> 72.  2017-04-20 17:10:27 +0000      337 bytes  examples/SimpleTabbarWithOrientation/package.jso\</tspan>
+<tspan x="10" y="2074">n</tspan>
+<tspan x="10" y="2090"> 73.  2017-04-20 17:10:27 +0000     4173 bytes  lib/index.js</tspan>
+<tspan x="10" y="2106"> 74.  2017-04-20 17:10:27 +0000      574 bytes  package.json</tspan>
+<tspan x="10" y="2122"> 75.  2017-04-20 17:10:27 +0000   351163 bytes  tabbar-orientation.gif</tspan>
+</text>
+</svg>
